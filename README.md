@@ -1,4 +1,4 @@
 vordur
 ======
 
-Web app for vordur.sidan.is
+Web app for e-Services of Vörður insurance company
